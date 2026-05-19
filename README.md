@@ -1,4 +1,5 @@
-Superstore Analytics Dashboard
+**Superstore Analytics Dashboard**
+
 Proyek ini adalah aplikasi dasbor interaktif berbasis Streamlit untuk menganalisis performa penjualan dan melakukan segmentasi pelanggan (RFM Analysis) dari sebuah superstore. Proyek ini dilengkapi dengan skrip pembuat data tiruan (dummy data) untuk simulasi.
 
 🚀 Fitur Utama
